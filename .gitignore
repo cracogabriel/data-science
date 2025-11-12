@@ -1,0 +1,4 @@
+# Ignore all CSV files
+data/*.csv
+*.csv
+*.parquet
